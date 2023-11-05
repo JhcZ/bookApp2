@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="useLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../bookApp1/web/WEB-INF/lib/commons-fileupload2-core-2.0.0-M1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../bookApp1/web/WEB-INF/lib/commons-fileupload2-jakarta-2.0.0-M1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../bookApp1/web/WEB-INF/lib/commons-io-2.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../bookApp1/web/WEB-INF/lib/jakarta.servlet.jsp.jstl-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../bookApp1/web/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../bookApp1/web/WEB-INF/lib/mysql-connector-java-8.0.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../bookApp1/web/WEB-INF/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../bookApp1/web/WEB-INF/lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
